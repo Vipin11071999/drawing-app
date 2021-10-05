@@ -1,3 +1,4 @@
-# myPaint
+#   [drawing aap](https://vpndraw.herokuapp.com/)
 
-A collaborative drawing app developed using web sockets
+A drawing app developed by me for learning web sockets, nodejs, express, shortid
+
